@@ -1,7 +1,7 @@
 #data/
 *.csv
-#models/
-#*.pkl
+models/
+*.pkl
 *.joblib
 venv/
 env/
